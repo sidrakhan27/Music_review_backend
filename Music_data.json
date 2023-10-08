@@ -1,0 +1,227 @@
+[
+  {
+    "musicId": "m001",
+    "title": "Lovely",
+    "releaseDate": "2018-04-26",
+    "artist": "Billie Eilish",
+    "genre": "Pop",
+    "musicLink": "https://youtu.be/V1Pl8CzNzCw?si=XBI7KHONu8ksBtuY",
+    "album": "lovely",
+    "coverImage": "https://tse3.mm.bing.net/th?id=OIP.39kFwOFQRGGzFfVCw7WdFQHaEi&pid=Api&P=0&h=220",
+    "backdrops": [
+      "https://tse4.mm.bing.net/th?id=OIP.n_EgjBryu0WbifWqCdY3AAHaEK&pid=Api&P=0&h=220",
+      "https://tse4.mm.bing.net/th?id=OIP.FG171WzomjXbaALzzU__uAHaFv&pid=Api&P=0&h=220"
+    ],
+    "reviewIds": []
+  },
+  {
+    "musicId": "m002",
+    "title": "Faded",
+    "releaseDate": "2015-12-03",
+    "artist": "Alan Walker",
+    "genre": "Electro house",
+    "musicLink": "https://youtu.be/60ItHLz5WEA?si=JPloAJEuM8lRGkB6",
+    "album": "Faded",
+    "coverImage": "https://tse1.mm.bing.net/th?id=OIP.wVmUaQq5r8JWq2PiT8RC9AHaEK&pid=Api&P=0&h=220",
+    "backdrops": [
+      "https://tse2.mm.bing.net/th?id=OIP.TZ3NpVuFJ3EHR8OVXWRD-gHaEK&pid=Api&P=0&h=220",
+      "https://tse4.mm.bing.net/th?id=OIP.3S1rVCME_0qTstiPmYc1mAHaEK&pid=Api&P=0&h=220"
+    ],
+    "reviewIds": []
+  },
+  {
+    "musicId": "m003",
+    "title": "What do you mean?",
+    "releaseDate": "2015-09-28",
+    "artist": "Justin Bieber",
+    "genre": "Pop",
+    "musicLink": "https://youtu.be/DK_0jXPuIr0?si=8J7hQhQ0pUeVQUa_",
+    "album": "purpose",
+    "coverImage": "https://tse4.mm.bing.net/th?id=OIP.nIpUMgW6v-tX_SSqAAMHsgHaHa&pid=Api&P=0&h=220",
+    "backdrops": [
+      "https://tse4.mm.bing.net/th?id=OIP.WfDE_SUrfh2l5NLC-hXp9gHaEK&pid=Api&P=0&h=220",
+      "https://tse4.mm.bing.net/th?id=OIP.C_Fn535SuROn71_MWR91RwHaEK&pid=Api&P=0&h=220"
+    ],
+    "reviewIds": []
+  },
+  {
+    "musicId": "m004",
+    "title": "Drivers License",
+    "releaseDate": "2021-01-08",
+    "artist": "Olivia Rodrigo",
+    "genre": "Pop",
+    "musicLink": "https://youtu.be/ZmDBbnmKpqQ?si=yKna-UbVARERhEzE",
+    "album": "drivers license",
+    "coverImage": "https://tse1.mm.bing.net/th?id=OIP.ZGtAfxLaDIsF5O7rNJZ52gHaHa&pid=Api&P=0&h=220",
+    "backdrops": [
+      "https://tse3.mm.bing.net/th?id=OIP.wj1deSvzW4fgC8YlpoOZhAHaEK&pid=Api&P=0&h=220",
+      "https://tse4.mm.bing.net/th?id=OIP.-OIWmT39Z4Uq-2HIVmXrRwAAAA&pid=Api&P=0&h=220"
+    ],
+    "reviewIds": []
+  },
+  {
+    "musicId": "m005",
+    "title": "Shape of You",
+    "releaseDate": "2017-01-6",
+    "artist": "Ed Sheeran",
+    "genre": "Pop",
+    "musicLink": "https://youtu.be/JGwWNGJdvx8?si=DnPhK6fyozJhGU3U",
+    "album": "Shape of You",
+    "coverImage": "https://tse1.mm.bing.net/th?id=OIP.PuJPTpaTb--b-5edJuHNTwHaEK&pid=Api&P=0&h=220",
+    "backdrops": [
+      "https://tse4.mm.bing.net/th?id=OIP.jKSvCpMa1Ow6EUNs3NB3lwHaEK&pid=Api&P=0&h=220",
+      "https://tse2.mm.bing.net/th?id=OIP.dnA_FRBxO0wlrQyfvmmLeAHaEK&pid=Api&P=0&h=220"
+    ],
+    "reviewIds": []
+  },
+  {
+    "musicId": "m006",
+    "title": "The Heart Wants What It Wants",
+    "releaseDate": "2014-11-06",
+    "artist": "Selena Gomez",
+    "genre": "Pop",
+    "musicLink": "https://youtu.be/ij_0p_6qTss?si=0Id6skPxhqQA8-yP",
+    "album": "The Heart Wants What It Wants",
+    "coverImage": "https://tse2.mm.bing.net/th?id=OIP.n83s8nLUn_5O6zaqsmicFAHaEB&pid=Api&P=0&h=220",
+    "backdrops": [
+      "https://tse3.mm.bing.net/th?id=OIP.Pr6Frm61rEg9ZI_F7EUYcQHaEK&pid=Api&P=0&h=220",
+      "https://tse2.mm.bing.net/th?id=OIP.8G8HNamMkIl9QJCnVNIZMAHaEK&pid=Api&P=0&h=220"
+    ],
+    "reviewIds": []
+  },
+  {
+    "musicId": "m007",
+    "title": "Love Me Like You Do",
+    "releaseDate": "2015-01-07",
+    "artist": "Ellie Goulding",
+    "genre": "ElectroPop",
+    "musicLink": "https://youtu.be/AJtDXIazrMo?si=9n-ABU-iRfRs-ZAd",
+    "album": "Delirium",
+    "coverImage": "https://tse2.mm.bing.net/th?id=OIP.h0bCIM-J8MuCUQE5cnKrxQHaEK&pid=Api&P=0&h=220",
+    "backdrops": [
+      "https://tse4.mm.bing.net/th?id=OIP.LaITFvzJZWdfTdgLDqDOEQHaEK&pid=Api&P=0&h=220",
+      "https://tse2.mm.bing.net/th?id=OIP.r4sTBCYJFig9khnZTvl0rgHaEK&pid=Api&P=0&h=220"
+    ],
+    "reviewIds": []
+  },
+  {
+    "musicId": "m008",
+    "title": "Blank Space",
+    "releaseDate": "2014-1-10",
+    "artist": "Taylor Swift",
+    "genre": "ElectroPop",
+    "musicLink": "https://youtu.be/e-ORhEE9VVg?si=ipQ8WxFsAEB-YKc0",
+    "album": "Blank Space",
+    "coverImage": "https://tse2.explicit.bing.net/th?id=OIP.OXeXRhmxr_BhiiQ9EfZQvAHaDS&pid=Api&P=0&h=220",
+    "backdrops": [
+      "https://tse3.mm.bing.net/th?id=OIP.1QcBVle1ZOzLNoiS2R5R6gHaEK&pid=Api&P=0&h=220",
+      "https://tse4.mm.bing.net/th?id=OIP.cUGWWR7bd1F24A1ugtsZWQHaEK&pid=Api&P=0&h=220"
+    ],
+    "reviewIds": []
+  },
+  {
+    "musicId": "m009",
+    "title": "Señorita",
+    "releaseDate": "2019-06-21",
+    "artist": "Camila Cabello and Shawn Mendes",
+    "genre": "Latin Pop",
+    "musicLink": "https://youtu.be/Pkh8UtuejGw?si=tPA-v5VchWjs6lH6",
+    "album": "Señorita",
+    "coverImage": "https://tse1.mm.bing.net/th?id=OIP.yitftqXCm3qxDB7pC1ZvDgHaEK&pid=Api&P=0&h=220",
+    "backdrops": [
+      "https://tse2.mm.bing.net/th?id=OIP.FYzqnySuvXVhVovnNKCaDwHaD6&pid=Api&P=0&h=220",
+      "https://tse2.mm.bing.net/th?id=OIP._wqzPOv3vWXkq1OInNNUCQHaEK&pid=Api&P=0&h=220"
+    ],
+    "reviewIds": []
+  },
+  {
+    "musicId": "m010",
+    "title": "Wake Me Up",
+    "releaseDate": "2013-06-17",
+    "artist": "Avicii",
+    "genre": "Folktronica",
+    "musicLink": "https://youtu.be/IcrbM1l_BoI?si=5vbJqmZMLfd6ouKD",
+    "album": "Wake Me Up",
+    "coverImage": "https://tse4.mm.bing.net/th?id=OIP.kLL5wIJtUCuBPbn674rGjwHaEK&pid=Api&P=0&h=220",
+    "backdrops": [
+      "https://tse1.mm.bing.net/th?id=OIP.WYgu6uw8YtbFratZxj01IAHaEK&pid=Api&P=0&h=220",
+      "https://tse4.mm.bing.net/th?id=OIP.jpdyaYhAgme_0pYFw5tE1QHaEK&pid=Api&P=0&h=220"
+    ],
+    "reviewIds": []
+  },
+  {
+    "musicId": "m011",
+    "title": "Thumbs",
+    "releaseDate": "2017-01-03",
+    "artist": "Sabrina Carpenter",
+    "genre": "ElectroPop",
+    "musicLink": "https://youtu.be/uAVUl0cAKpo?si=nGFf_wZ9m1iTJOfM",
+    "album": "Thumbs",
+    "coverImage": "https://tse3.mm.bing.net/th?id=OIP.eKc-qi8YWXjftFR4CW90kQHaEK&pid=Api&P=0&h=220",
+    "backdrops": [
+      "https://tse3.mm.bing.net/th?id=OIP.5GY5BUwtpocdaVFkYbX_zAHaEK&pid=Api&P=0&h=220",
+      "https://tse4.mm.bing.net/th?id=OIP.Qzw-jQgF43bgL9brJ_uH1AHaEK&pid=Api&P=0&h=220"
+    ],
+    "reviewIds": []
+  },
+  {
+    "musicId": "m012",
+    "title": "Dusk Till Dawn",
+    "releaseDate": "2017-09-08",
+    "artist": "Zayn Malik",
+    "genre": "Pop",
+    "musicLink": "https://youtu.be/tt2k8PGm-TI?si=FQ78xXsFQc2ES5JG",
+    "album": "Dusk Till Dawn",
+    "coverImage": "https://tse3.mm.bing.net/th?id=OIP.AOymn1JG4OKpRuQe-f-esgHaHa&pid=Api&P=0&h=220",
+    "backdrops": [
+      "https://tse4.mm.bing.net/th?id=OIP.u7k8KYh_GgFgeB8EF8nyzwHaDs&pid=Api&P=0&h=220",
+      "https://tse3.mm.bing.net/th?id=OIP.q40q_KfYDJcQuW_f7BXC1wAAAA&pid=Api&P=0&h=220"
+    ],
+    "reviewIds": []
+  },
+  {
+    "musicId": "m013",
+    "title": "Without Me",
+    "releaseDate": "2018-10-04",
+    "artist": "Halsey",
+    "genre": "Pop",
+    "musicLink": "https://youtu.be/ZAfAud_M_mg?si=HwDe6cGqgmOZEXZs",
+    "album": "Without Me",
+    "coverImage": "https://tse2.mm.bing.net/th?id=OIP.Y0DRdYYwTjUR0i92HiwqqAHaEK&pid=Api&P=0&h=220",
+    "backdrops": [
+      "https://tse3.mm.bing.net/th?id=OIP.WceZLdD3Ltyd7PEZOdtdDAHaEK&pid=Api&P=0&h=220",
+      "https://tse1.mm.bing.net/th?id=OIP.qQfeqYmH9AX76xoiwB-0LAHaDw&pid=Api&P=0&h=220"
+    ],
+    "reviewIds": []
+  },
+  {
+    "musicId": "m014",
+    "title": "We Don't Talk Anymore",
+    "releaseDate": "2016-05-24",
+    "artist": "Charlie Puth",
+    "genre": "Pop",
+    "musicLink": "https://youtu.be/3AtDnEC4zak?si=_gZaGiqdQUQg-bmt",
+    "album": "We Don't Talk Anymore",
+    "coverImage": "https://tse4.mm.bing.net/th?id=OIP.2F5setKzh_rdlV0AwAcwxwHaHa&pid=Api&P=0&h=220",
+    "backdrops": [
+      "https://tse4.mm.bing.net/th?id=OIP.hNeYax1hCaiJGKxNCxjEHQHaEK&pid=Api&P=0&h=220",
+      "https://tse4.mm.bing.net/th?id=OIP.i6K583yItJ57Zff_foGC9AHaEo&pid=Api&P=0&h=220"
+    ],
+    "reviewIds": []
+  },
+  {
+    "musicId": "m015",
+    "title": "Rockabye",
+    "releaseDate": "2016-10-21",
+    "artist": "Anne-Marie",
+    "genre": "Dance Pop",
+    "musicLink": "https://youtu.be/papuvlVeZg8?si=0VqrUnkpGEzacfQP",
+    "album": "Rockabye (feat. Sean Paul & Anne-Marie)",
+    "coverImage": "https://tse1.mm.bing.net/th?id=OIP.6RZ_nOjWUNrU_9wH5EV6zgHaEK&pid=Api&P=0&h=220",
+    "backdrops": [
+      "https://tse1.mm.bing.net/th?id=OIP.6RZ_nOjWUNrU_9wH5EV6zgHaEK&pid=Api&P=0&h=220",
+      "https://tse2.mm.bing.net/th?id=OIP.rf3dIalhycXImbeYhNMbGgHaEK&pid=Api&P=0&h=220"
+    ],
+    "reviewIds": []
+  }
+]
